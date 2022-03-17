@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah AL Hinaey</h1>
 <h3 align="center">I am currently a Computer Science student at the University of Central Florida.</h3>
 
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/2618501-Space-Frolicking")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2660249/screenshots/6664064/comp_1.gif")
 
 - 🌱 I’m currently learning **AI, Python, Java**
 
