@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah AL Hinaey</h1>
-<h3 align="center">I am currently a Computer Science student at the University of Central Florida.</h3>
+<h3 align="left">I am currently a Computer Science student at the University of Central Florida.</h3>
 
 - 🌱 I’m currently learning **AI, Python, Java**
 
